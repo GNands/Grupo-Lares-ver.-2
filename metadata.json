@@ -1,0 +1,6 @@
+{
+  "name": "Grupo Lares • Productora Artística & Cinematográfica",
+  "description": "Portafolio ejecutivo y plataforma de enlace de Grupo Lares (Wiñaypaq & Cinema Pro) para empresas de alto nivel, ministerios, organismos internacionales y ONGs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
